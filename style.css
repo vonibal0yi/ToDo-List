@@ -10,7 +10,7 @@
 .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, rgb(0, 0, 0),rgb(21, 2, 53));
+    background: linear-gradient(135deg, rgb(0, 0, 0),#01b0b6);
     padding: 10px;
 }
 .todo-app{
@@ -20,7 +20,7 @@
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
-    border: 2px #ff5600 solid;
+    border: 2px #01b0b6 solid;
     
 }
 .todo-app h2{
@@ -52,7 +52,7 @@ button{
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5600;
+    background: #01b0b6;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
@@ -60,7 +60,7 @@ button{
 
 }
 button:hover{
-    background: rgb(255, 123, 0);
+    background: #018286;
 }
 button:active{
     background: rgb(255, 255, 255);
